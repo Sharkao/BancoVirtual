@@ -9,7 +9,6 @@ package com.mycompany.bancovirtual;
  *
  * @author Pichau
  */
-import java.util.Scanner;
 public class Conta {
     private String nome;
     private int conta, saques;
