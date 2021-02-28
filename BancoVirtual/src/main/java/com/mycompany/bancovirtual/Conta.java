@@ -10,5 +10,8 @@ package com.mycompany.bancovirtual;
  * @author Pichau
  */
 public class Conta {
-    
+    private String nome;
+    private int conta, saques;
+    private double saldo;
+    Scanner entrada = new Scanner(System.in);
 }
